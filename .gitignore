@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# PyThaiNLP data cache
+.pythainlp-data/
+
+# OS generated files
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets (60MB+) - GitHub limit / warning
+w_review_train.csv
+test_file.csv
+
